@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "联系我"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
