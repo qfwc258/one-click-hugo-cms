@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "湘灵科技"
+subtitle: 心有猛虎，细嗅蔷薇
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
